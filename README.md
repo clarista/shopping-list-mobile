@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+[![Build status](https://build.appcenter.ms/v0.1/apps/ad9e7275-fc6e-475e-9ddb-7e60e8b7ea3c/branches/master/badge)](https://appcenter.ms)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
